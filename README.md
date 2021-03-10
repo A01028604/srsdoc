@@ -30,14 +30,21 @@ El proposito de nuestro juego es romper el "cliche" en el cual se cree que l@s m
 Ankakh un juego de toma de decisiones, en el que cual el personaje principal es manipulado por el usuario. Este podrá elegir desde la apariencia del personaje hasta las decisiones que tiene que hacer durante el día a día.  
 
 ## Definitions and Acronyms
-Include any non-trivial definition or acronym used in the document.
+- STEAM/STEM= Es una asociación sin fines de lucro que busca promover la enseñanza de la ciencia, ingeniería, tecnología, matemáticas y arte en los jovenes 
+
+- Carreras STEAM= ingeniería, ciencias, matemáticas, tecnología y arte
+
+- Cliche= estereotipo
+
+- Agenda 2030= la ONU crea la Agenda 2030 como un plan a favor de las personas y el planeta
+
 
 # Overall Description
 El objetivo de Ankakh es enseñar la vida en un día de l@s ingenieros y científicos de alguna carrera STEAM, enseñando que estas personas son humanos y tienen una vida normal tanto en el trabajo y como en la parte social. A largo plazo nos gustaría lograr que el personaje viaje a todo el mundo y en cada país tenga una carrera diferente (dentro de las carreras STEAM) para que el usuario pueda experimentar la diversión de cada una de ellas.
 Queremos también atraer a las niñas con algo que estén familiarizadas y los juegos de este tipo son muy populares. Nos basamos pensando en juegos como "Episode" que son libros y en cada libro tienes una vida diferente con tu personaje, sin embargo estos juegos son solo de relaciones de noviazgo y nada más.
 
 ## User classes
-Este juego esta enfocado en niñas de 9-19 años, con el fin de impulsarlas a estudiar carreras STEAM (ciencias, ingeniería, matemáticas, tecnología y arte). No hay una clase en espeficífico, por lo tanto se busca llegar a la mayor cantidad de niñas y niños posibles. 
+Este juego esta enfocado en niñas de 9-19 años, con el fin de impulsarlas a estudiar carreras STEAM. No hay una clase en espeficífico, por lo tanto se busca llegar a la mayor cantidad de niñas y niños posibles. 
 Es importante recordar que es esencial tener un navegador actualizado. 
 
 ## Assumptions and Dependencies
@@ -57,7 +64,7 @@ Es importante recordar que es esencial tener un navegador actualizado.
 # System Features and Requirements
 - El rango de edad es de 9-19 años
 - Debe ser un juego inclusivo
-- Debe buscar relacionarse con un objetivo 2030
+- Debe buscar relacionarse con un objetivo de la Agenda 2030
 - Fomentar carreras STEAM 
 
 ## Functional Requirements
